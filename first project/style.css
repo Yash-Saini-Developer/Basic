@@ -1,0 +1,83 @@
+
+   
+
+body {background-color: rgba(69, 188, 216, 0.4);}
+
+
+h1 ,h2{  
+    color: #d625d6;
+    font-size: 30px;
+    font-family: sans-serif;
+  margin-bottom: 15px;
+
+}    
+    
+p {
+    font-size: 20px;
+    font-family: sans-serif;
+}
+body{
+    font-family: sans-serif;
+    text-align: justify;
+    width: 100%;
+    
+}
+.main-text{
+    font-size: 20px;
+    margin-bottom: 15px;   
+}
+.tt {
+    font-size: 30px;
+    margin-bottom: 15px;
+}
+
+    margin-top: 15px;    
+}
+    
+
+.father { font-size: 20px;      
+}
+
+.container {
+    width: 1000px;
+    margin-left: auto;
+    margin-right: auto;
+    text-align: justify;
+    position: relative;
+}
+
+.main   {
+   
+    width: 60%;
+   float: left;
+    padding: 20px;
+    margin-top:10px;
+    border-bottom: 2px solid #808080;
+    position: relative;
+        
+}
+
+.family {
+    
+    width: 25%;
+    float:right;
+    padding:5px;
+    margin-top: 50px;
+   margin-left:  20px;  
+}
+a {
+    font-size:20px; 
+}
+.family img {
+ border-radius: 30%;
+height: 100%;
+}
+
+.birthday{
+    position: absolute;
+  top : 24px;
+  right: 20px  
+      
+}
+
+
